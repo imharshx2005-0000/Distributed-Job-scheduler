@@ -1,0 +1,6 @@
+{
+  "name": "Distributed Job Scheduler",
+  "description": "A production-inspired distributed job scheduling platform featuring queue priority, concurrency limits, worker heartbeats, retry backoffs, dead-letter queues, automated concurrency tests, and AI-generated failure diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
